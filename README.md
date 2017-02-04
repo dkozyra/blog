@@ -3,7 +3,6 @@
 ##Autorzy:
 
 ###Damian Kozyra
-
 ###Jacek Bańkowski
 
 
