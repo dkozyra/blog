@@ -1,9 +1,20 @@
-Projekt na egzamin
+# Blog na egzamin
 
-BLOG
+##Autorzy:
 
-autorzy:
+###Damian Kozyra
 
-Damian Kozyra
+###Jacek Bańkowski
 
-Jacek Bańkowski
+
+Panel admina dostępny jest pod tym adresem "https://blognaegzamin.herokuapp.com/admin/login"
+
+
+login:
+```
+admin@example.com
+```
+password
+```
+password
+```
